@@ -32,7 +32,7 @@ written to the main `StateCU` folder, which is used to run the model.  The compo
 
 * [ClimateCU](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/ClimateCU) - files related to climate stations
 * [Crops](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/Crops) - files related to crop
-* [Crops](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/DocsCU) - dataset documentation
+* [DocsCU](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/DocsCU) - dataset documentation
 * [LocationCU](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/LocationCU) - files for locations where consumptive use is being estimated
 * [StateCU](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/StateCU) - input files that are used to run the StateCU software
 * [StateMod](https://github.com/OpenWaterFoundation/cdss-model-statecu-yampa/tree/master/StateMod) - input files that are shared with the StateMod model
